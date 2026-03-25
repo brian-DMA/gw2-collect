@@ -65,7 +65,7 @@ Open `http://localhost:5173` in your browser.
 ## 📁 Project Structure
 
 ```
-gw2collect/
+gw2-collect/
 ├── src/
 │   ├── data/
 │   │   └── mapData.js          # Map and category item ID configuration
